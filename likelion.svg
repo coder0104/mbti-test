@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="12" viewBox="0 0 166 12">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#FF9300">
+            <g>
+                <path d="M0 4L12 4 12 8 0 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 -8.485 0)"/>
+                <path d="M14 4.314L26 4.314 26 8.314 14 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 20 6.314)"/>
+                <path d="M28 4L40 4 40 8 28 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 19.515 0)"/>
+                <path d="M42 4.314L54 4.314 54 8.314 42 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 48 6.314)"/>
+                <path d="M56 4L68 4 68 8 56 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 47.515 0)"/>
+                <path d="M70 4.314L82 4.314 82 8.314 70 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 76 6.314)"/>
+                <path d="M84 4L96 4 96 8 84 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 75.515 0)"/>
+                <path d="M98 4.314L110 4.314 110 8.314 98 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 104 6.314)"/>
+                <path d="M112 4L124 4 124 8 112 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 103.515 0)"/>
+                <path d="M126 4.314L138 4.314 138 8.314 126 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 132 6.314)"/>
+                <path d="M140 4L152 4 152 8 140 8z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) scale(1 -1) rotate(-45 131.515 0)"/>
+                <path d="M154 4.314L166 4.314 166 8.314 154 8.314z" transform="translate(-105 -511) matrix(1 0 0 -1 105 523) rotate(-45 160 6.314)"/>
+            </g>
+        </g>
+    </g>
+</svg>
